@@ -5,7 +5,7 @@
 - 🎓 CS degree from UCLA
 - 👩🏻‍💻 Currently at FlyteHealth
 - 🔨 Building projects with JavaScript, TypeScript, React, Node, & RESTful APIs
-- 🤝 Former Principal PM & Data Analyst — I understand the development process, teamwork, and how to ship features that solve real problems
+- 🤝 Former Principal PM & Data Analyst — I understand the development process, teamwork, and how to ship (and measure!) features that solve real problems
 
 **Industries I’ve worked in as a PM:**  
 Healthcare, e-commerce, subscription products, SaaS
