@@ -3,7 +3,7 @@
 👩🏻‍💻 I’m a software engineer with a unique blend of product, data, and technical experience.
 
 - 🎓 CS degree from UCLA
-- 👩🏻‍💻 Recently leveled up with The Odin Project (modern web development)
+- 👩🏻‍💻 Currently at FlyteHealth
 - 🔨 Building projects with JavaScript, TypeScript, React, Node, & RESTful APIs
 - 🤝 Former Principal PM & Data Analyst — I understand the development process, teamwork, and how to ship features that solve real problems
 
